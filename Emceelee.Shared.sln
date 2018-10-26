@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Emceelee.Shared", "Emceelee.Shared\Emceelee.Shared.csproj", "{72502108-7125-4C88-B837-35C8C664F8F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Emceelee.Shared.Test", "Emceelee.Shared.Test\Emceelee.Shared.Test.csproj", "{979B3338-3724-46C6-B744-3594CC66C0ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72502108-7125-4C88-B837-35C8C664F8F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72502108-7125-4C88-B837-35C8C664F8F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72502108-7125-4C88-B837-35C8C664F8F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72502108-7125-4C88-B837-35C8C664F8F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{979B3338-3724-46C6-B744-3594CC66C0ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{979B3338-3724-46C6-B744-3594CC66C0ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{979B3338-3724-46C6-B744-3594CC66C0ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{979B3338-3724-46C6-B744-3594CC66C0ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03ED723B-59B1-4ADE-BEC3-DB5D9DA104C7}
+	EndGlobalSection
+EndGlobal
